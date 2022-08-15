@@ -6,3 +6,5 @@ def subtract(a, b):
   return a-b
 def miltiply(a, b):
   return a*b
+def devied(a, b):
+  return a/b
