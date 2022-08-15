@@ -6,5 +6,5 @@ def subtract(a, b):
   return a-b
 def miltiply(a, b):
   return a*b
-def devied_premium(a, b):
+def devide_new(a, b):
   return a/b
